@@ -11,7 +11,10 @@
         "url": "git+https://github.com/nodoambiental/@@NAME@@.git"
     },
     "keywords": [],
-    "author": "",
+    "author": {
+        "name": "@@AUTHOR_NAME@@",
+        "email": "@@AUTHOR_EMAIL@@"
+    },
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/nodoambiental/@@NAME@@/issues"
